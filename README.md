@@ -1,3 +1,4 @@
+#turtle_sim_cpp
 <snippet>
   <content><![CDATA[
 # ${1:Project Name}
